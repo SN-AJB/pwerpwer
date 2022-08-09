@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="I like chacha">26d4d01887dd9950a6228f59dabb3501</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>I like chachas</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_pwerawer_i_like_chacha</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_pwerawer.i_like_chacha_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:22:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ad4d01887dd9950a6228f59dabb3580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I like chachas</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_app_module_7ad4d01887dd9950a6228f59dabb3580</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:22:18</sys_updated_on>
+        <timeline_page/>
+        <title>I like chachas</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="pwerawer">970fc769a949d150ed447ecd937884e8</application>
+        <file_path/>
+        <instance_id>0b082af2dbe0d5980b9d21c405961980</instance_id>
+        <instance_name>paigedev</instance_name>
+        <name>sys_app_module_7ad4d01887dd9950a6228f59dabb3580</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="I like chacha">26d4d01887dd9950a6228f59dabb3501</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>I like chachas</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_pwerawer_i_like_chacha</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_snc_pwerawer.i_like_chacha_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>andrew.barnes@snc</sys_created_by><sys_created_on>2022-08-09 15:22:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7ad4d01887dd9950a6228f59dabb3580</sys_id><sys_mod_count>0</sys_mod_count><sys_name>I like chachas</sys_name><sys_overrides/><sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package><sys_policy/><sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope><sys_update_name>sys_app_module_7ad4d01887dd9950a6228f59dabb3580</sys_update_name><sys_updated_by>andrew.barnes@snc</sys_updated_by><sys_updated_on>2022-08-09 15:22:18</sys_updated_on><timeline_page/><title>I like chachas</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1445419699</payload_hash>
+        <record_name>I like chachas</record_name>
+        <reverted_from/>
+        <source>dd3fcf698749d150a6228f59dabb3526</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:22:18</sys_created_on>
+        <sys_id>bed4d01887dd9950a6228f59dabb3582</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182833312fa0000001</sys_recorded_at>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:22:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f6d4d01869dd99502f2c8c8d3b93b182</update_guid>
+        <update_guid_history>f6d4d01869dd99502f2c8c8d3b93b182:1445419699</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="I like chachas">31171c9887dd9950a6228f59dabb3527</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:32:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>26785a04d56b462c87481169832aef99</sys_id>
+        <sys_metadata>7ad4d01887dd9950a6228f59dabb3580</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I like chachas</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_scope_delete display_value="">42d9faa541474bce841f5f4ed2d84dd1</sys_scope_delete>
+        <sys_update_name>sys_app_module_7ad4d01887dd9950a6228f59dabb3580</sys_update_name>
+        <sys_update_version display_value="sys_app_module_7ad4d01887dd9950a6228f59dabb3580">bed4d01887dd9950a6228f59dabb3582</sys_update_version>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:32:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

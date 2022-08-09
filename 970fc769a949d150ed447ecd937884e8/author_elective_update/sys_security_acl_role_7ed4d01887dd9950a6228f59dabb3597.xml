@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:22:18</sys_created_on>
+        <sys_id>7ed4d01887dd9950a6228f59dabb3597</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_pwerawer_i_like_chacha.x_snc_pwerawer.i_like_chacha_user</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_security_acl display_value="x_snc_pwerawer_i_like_chacha">f6d4d01887dd9950a6228f59dabb3588</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7ed4d01887dd9950a6228f59dabb3597</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:22:18</sys_updated_on>
+        <sys_user_role display_value="x_snc_pwerawer.i_like_chacha_user" name="x_snc_pwerawer.i_like_chacha_user">62d4901887dd9950a6228f59dabb35fb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="pwerawer">970fc769a949d150ed447ecd937884e8</application>
+        <file_path/>
+        <instance_id>0b082af2dbe0d5980b9d21c405961980</instance_id>
+        <instance_name>paigedev</instance_name>
+        <name>sys_security_acl_role_7ed4d01887dd9950a6228f59dabb3597</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>andrew.barnes@snc</sys_created_by><sys_created_on>2022-08-09 15:22:18</sys_created_on><sys_id>7ed4d01887dd9950a6228f59dabb3597</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_pwerawer_i_like_chacha.x_snc_pwerawer.i_like_chacha_user</sys_name><sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package><sys_policy/><sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope><sys_security_acl display_value="x_snc_pwerawer_i_like_chacha">f6d4d01887dd9950a6228f59dabb3588</sys_security_acl><sys_update_name>sys_security_acl_role_7ed4d01887dd9950a6228f59dabb3597</sys_update_name><sys_updated_by>andrew.barnes@snc</sys_updated_by><sys_updated_on>2022-08-09 15:22:18</sys_updated_on><sys_user_role display_value="x_snc_pwerawer.i_like_chacha_user" name="x_snc_pwerawer.i_like_chacha_user">62d4901887dd9950a6228f59dabb35fb</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-710297839</payload_hash>
+        <record_name>x_snc_pwerawer_i_like_chacha.x_snc_pwerawer.i_like_chacha_user</record_name>
+        <reverted_from/>
+        <source>dd3fcf698749d150a6228f59dabb3526</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:22:19</sys_created_on>
+        <sys_id>b6d4d01887dd9950a6228f59dabb359a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182833314180000001</sys_recorded_at>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:22:19</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>fed4d01883dd99509af2ba3472b06699</update_guid>
+        <update_guid_history>fed4d01883dd99509af2ba3472b06699:-710297839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_pwerawer_i_like_chacha.x_snc_pwerawer.i_like_chacha_user">a117d89887dd9950a6228f59dabb35f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:32:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07edc29368ff41aa82086011f9ee8ed9</sys_id>
+        <sys_metadata>7ed4d01887dd9950a6228f59dabb3597</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_pwerawer_i_like_chacha.x_snc_pwerawer.i_like_chacha_user</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_parent display_value="">f6d4d01887dd9950a6228f59dabb3588</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_scope_delete display_value="">42d9faa541474bce841f5f4ed2d84dd1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7ed4d01887dd9950a6228f59dabb3597</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7ed4d01887dd9950a6228f59dabb3597">b6d4d01887dd9950a6228f59dabb359a</sys_update_version>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:32:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
