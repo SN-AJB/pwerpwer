@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="end_date" label="Review period end date" language="en" table="x_snc_pwerawer_performance_review">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <help/>
+            <hint/>
+            <label>Review period end date</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <plural>Review period end dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>6f0f0b698749d150a6228f59dabb3532</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Review period end date</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_pwerawer_performance_review_end_date_en</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

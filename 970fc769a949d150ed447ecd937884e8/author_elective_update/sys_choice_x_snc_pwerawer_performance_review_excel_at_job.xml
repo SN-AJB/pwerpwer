@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="excel_at_job" table="x_snc_pwerawer_performance_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>excel_at_job</element>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>7b4fc3a98749d150a6228f59dabb35a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>excel_at_job</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_choice_x_snc_pwerawer_performance_review_excel_at_job</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>excel_at_job</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>When I am working alone on a project</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>930fc7698e49d1501e4db1765dfcaadc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:39</sys_updated_on>
+            <value>alone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>excel_at_job</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>When I am working with a team</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b0fc7698149d15010b340442dc714dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:39</sys_updated_on>
+            <value>team</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>excel_at_job</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>When I balance working with a team and working alone</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>130fc769ec49d150f4ad22814fb3f0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:39</sys_updated_on>
+            <value>balance</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

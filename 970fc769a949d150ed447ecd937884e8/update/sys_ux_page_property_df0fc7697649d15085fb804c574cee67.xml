@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>contains reference to the sys_aw_global_search_config record and the page (612675ca2cb82010f87744bfcc0ea34b)</description>
+        <name>global_search_configurations</name>
+        <page display_value="pwerawer Workspace">9b0fc7697849d15034ae306e37adb3e7</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>df0fc7697649d15085fb804c574cee67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_page_property_df0fc7697649d15085fb804c574cee67</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:41</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_pwerawer.9b0fc7697849d15034ae306e37adb3e7.root.global_search_configurations</unique_name>
+        <value>{
+    "globalSearchViewConfigId": "612675ca2cb82010f87744bfcc0ea34b",
+"globalSearchRoute": "search-results"
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=df0fc7697649d15085fb804c574cee67"/>
+</record_update>

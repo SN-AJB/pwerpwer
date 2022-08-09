@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="client_relations" table="x_snc_pwerawer_performance_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>client_relations</element>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>e31fcb698749d150a6228f59dabb35af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>client_relations</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_choice_x_snc_pwerawer_performance_review_client_relations</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>client_relations</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Below expectations</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db0fc7696749d150f17c2db18a791eda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:49</sys_updated_on>
+            <value>1 - Below expectations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>client_relations</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Meets expectations</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f0fc769b249d1501239f241bf5035da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:49</sys_updated_on>
+            <value>2 - Meets expectations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>client_relations</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Exceeds expectations</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d30fc769b149d150a97016ab129cbcdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:49</sys_updated_on>
+            <value>3 - Exceeds expectations</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

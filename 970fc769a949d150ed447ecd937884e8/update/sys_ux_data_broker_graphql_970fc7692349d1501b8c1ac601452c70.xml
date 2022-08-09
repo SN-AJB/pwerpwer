@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_graphql">
+    <sys_ux_data_broker_graphql action="INSERT_OR_UPDATE">
+        <api_name>x_snc_pwerawer.Lookup User Company and logo</api_name>
+        <description>Get the Users Company Name and Logo from a User recrod</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Lookup User Company and logo</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[ { "name": "userSysId", "label": "User", "fieldType": "reference", "typeMetadata": { "reference": "sys_user" }, "readOnly": false, "mandatory": false, "defaultValue": "", "description": "User" } ]</props>
+        <query/>
+        <required_translations>[{"message":"User","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[(function buildQuery(query, inputs) {
+    var userSysId = (inputs.userSysId || "").trim();
+	
+    if (gs.nil(userSysId))
+        userSysId = gs.getUserID();
+
+    var userQuery =
+        "{\r\n" +
+        "  GlideRecord_Query {\r\n" +
+        "    sys_user(sys_id: \"" + userSysId + "\") {\r\n" +
+		"       _results {\r\n" + 
+		"        company {\r\n" +
+		"            _reference {\r\n" +
+		"                name { value }\r\n" +
+        "                banner_image { value }\r\n" +
+        "            }\r\n" +
+		"         }\r\n" + 
+		"       }\r\n" + 
+        "    }\r\n" +
+        "  }\r\n" +
+        "}";
+
+    query.append(userQuery);
+})(query, inputs);]]></script>
+        <sys_class_name>sys_ux_data_broker_graphql</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:43</sys_created_on>
+        <sys_id>970fc7692349d1501b8c1ac601452c70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lookup User Company and logo</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_data_broker_graphql_970fc7692349d1501b8c1ac601452c70</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:43</sys_updated_on>
+        <type>script</type>
+        <use_record_domain>false</use_record_domain>
+    </sys_ux_data_broker_graphql>
+    <sys_translated_text action="delete_multiple" query="documentkey=970fc7692349d1501b8c1ac601452c70"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>PR Update Requested</name>
+        <parent_macroponent display_value="Record">d70fc7693349d150deb88f71cd7a6584</parent_macroponent>
+        <source_da display_value="pr_update_requested">d70fc7697749d1503af84a8b5bc349d4</source_da>
+        <source_element_id>ui_action_bar</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>570fc7693249d1508d909de995851e83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PR Update Requested</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_570fc7693249d1508d909de995851e83</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:51</sys_updated_on>
+        <target_event display_value="PR Update Requested">5b0fc769c449d150bb1173718d9ec584</target_event>
+        <target_payload_mapping/>
+    </sys_ux_addon_event_mapping>
+</record_update>

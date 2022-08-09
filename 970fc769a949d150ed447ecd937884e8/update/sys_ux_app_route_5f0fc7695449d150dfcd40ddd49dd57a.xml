@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Performance Review">db0fc7691449d150d9acfcb6705dd3e7</app_config>
+        <description/>
+        <fields>listTitle,table,parentTable,parentRecordSysId,relatedListName,query,actionConfigId,refreshRequested,view</fields>
+        <icon/>
+        <name>Related List Tab</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record">d30fc7690249d150ea1a8ef8bd5a2985</parent_macroponent>
+        <parent_macroponent_composition_element_id>record_page_tabs_1_ckiiwfdnffoaaaabbbbddghhdamgvmbbbba</parent_macroponent_composition_element_id>
+        <route_type>related_list</route_type>
+        <screen_type display_value="Related List Tab">570fc7695149d150b5c9cea547d0e57b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:47</sys_created_on>
+        <sys_id>5f0fc7695449d150dfcd40ddd49dd57a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related List Tab</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_app_route_5f0fc7695449d150dfcd40ddd49dd57a</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:47</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f0fc7695449d150dfcd40ddd49dd57a"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="start_date" label="Start date" language="en" table="var__m_sys_hub_action_output_970fc769c849d15001bd14f6f99541c4">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <help/>
+            <hint/>
+            <label>Start date</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_970fc769c849d15001bd14f6f99541c4</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:38</sys_created_on>
+            <sys_id>d30fc7699b49d15098d096e432cb3fc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start date</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b13911e9db202050f16b5ce4dc961988_start_date_en</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

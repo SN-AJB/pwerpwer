@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_route_permission">
+    <sys_ux_route_permission action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <groups/>
+        <roles/>
+        <route/>
+        <sys_class_name>sys_ux_route_permission</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:07</sys_created_on>
+        <sys_id>5f0fc7691d49d1508e435aa5db491266</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_route_permission_5f0fc7691d49d1508e435aa5db491266</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:07</sys_updated_on>
+        <type>write</type>
+        <users>36d34cf6dbc8e01047124c9b0b96196e</users>
+    </sys_ux_route_permission>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_layout_item">
+    <sys_ux_m2m_action_layout_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <sys_class_name>sys_ux_m2m_action_layout_item</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:05</sys_created_on>
+        <sys_id>130fc7691b49d15048a4b70d0417e06a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_layout_item_130fc7691b49d15048a4b70d0417e06a</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:05</sys_updated_on>
+        <table>x_snc_pwerawer_performance_review</table>
+        <ux_form_action_layout display_value="Evaluation Draft">170fc7697849d150d3f4841a014f7282</ux_form_action_layout>
+        <ux_form_action_layout_item display_value="Send">570fc7699549d150222d2d13306b716b</ux_form_action_layout_item>
+    </sys_ux_m2m_action_layout_item>
+</record_update>

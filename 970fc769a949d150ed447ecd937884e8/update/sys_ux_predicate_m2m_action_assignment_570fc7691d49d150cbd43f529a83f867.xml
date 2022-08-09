@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="pr_click_action">1b0fc769f649d150ed1604e17c178ad4</declarative_action_assignment>
+        <predicate display_value="Performance Review">5b0fc7695b49d1503681d52a68dd1c70</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:47</sys_created_on>
+        <sys_id>570fc7691d49d150cbd43f529a83f867</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_570fc7691d49d150cbd43f529a83f867</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:47</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

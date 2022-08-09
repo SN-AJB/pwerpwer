@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="PR Employee Portal">1f0fc7691049d15046125212d521bbe7</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Evaluation</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Self Evaluation">9f0fc769e149d150878fdcba7ee81878</parent_macroponent>
+        <parent_macroponent_composition_element_id>ckiajhhiiaafaaaaddvddffhhwlyhhyfggsp</parent_macroponent_composition_element_id>
+        <route_type>evaluation</route_type>
+        <screen_type display_value="Evaluation">5f0fc7690f49d1509613c445354f4878</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:06</sys_created_on>
+        <sys_id>db0fc769df49d150a933c1d055c09478</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Evaluation</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_app_route_db0fc769df49d150a933c1d055c09478</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:06</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=db0fc769df49d150a933c1d055c09478"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>empPortalSelfReviewView</name>
+        <page display_value="pwerawer Portal">d70fc7692549d1504ef24701fa5361e7</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1f0fc7699849d1506ee5ddc6739c7767</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>empPortalSelfReviewView</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_page_property_1f0fc7699849d1506ee5ddc6739c7767</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:36</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_pwerawer.d70fc7692549d1504ef24701fa5361e7.root.empPortalSelfReviewView</unique_name>
+        <value>self_review_x_snc_pwerawer</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f0fc7699849d1506ee5ddc6739c7767"/>
+</record_update>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Work Traits" section_id="170fc769db49d1504858647ca1daf298" sys_domain="global" table="x_snc_pwerawer_performance_review" version="3" view="manager_review_x_snc_pwerawer">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>productivity</element>
+            <position>0</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>930fc769ae49d1500c9b456651c44691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dependability</element>
+            <position>1</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>130fc769e549d150fa53c20ce2c00c91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>creativity</element>
+            <position>2</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>d30fc7696449d1507022e4fef99f6691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>df0fc7696b49d150c19ca899a3990290</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>takes_initiative</element>
+            <position>4</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>db0fc769a049d1500bbecebe459d5a90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>honesty</element>
+            <position>5</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_id>9f0fc7697f49d150bef2e84665906490</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Traits" display_value="Work Traits" name="x_snc_pwerawer_performance_review" sys_domain="global" view="570fc7690649d150fc67b666fb9c1898">170fc769db49d1504858647ca1daf298</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Work Traits</caption>
+            <header>false</header>
+            <name>x_snc_pwerawer_performance_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>170fc769db49d1504858647ca1daf298</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_pwerawer_performance_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_ui_section_170fc769db49d1504858647ca1daf298</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Manager Review (x_snc_pwerawer)" name="manager_review_x_snc_pwerawer">570fc7690649d150fc67b666fb9c1898</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

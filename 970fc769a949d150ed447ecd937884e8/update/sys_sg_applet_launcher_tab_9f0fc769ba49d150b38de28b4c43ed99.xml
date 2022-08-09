@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher/>
+        <icon display_value="Home Performance Appraisals">9b0fc7697949d150a0219ba59ecb1d99</icon>
+        <label>Performance Appraisals</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:44</sys_created_on>
+        <sys_id>9f0fc769ba49d150b38de28b4c43ed99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Performance Appraisals</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_9f0fc769ba49d150b38de28b4c43ed99</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:44</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

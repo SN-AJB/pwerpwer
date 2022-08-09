@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description>update requested  ux form actions.</description>
+        <name>Update Requested</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:31</sys_created_on>
+        <sys_id>d70fc7696e49d150568d791f0157e26b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Requested</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_form_action_d70fc7696e49d150568d791f0157e26b</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:31</sys_updated_on>
+        <table>x_snc_pwerawer_performance_review</table>
+        <ui_action display_value="Update Requested">930fc769c249d150dabc7d2d912b7b98</ui_action>
+    </sys_ux_form_action>
+</record_update>

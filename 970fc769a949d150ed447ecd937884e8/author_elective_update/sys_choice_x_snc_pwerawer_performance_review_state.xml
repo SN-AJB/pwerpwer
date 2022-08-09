@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_pwerawer_performance_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>c62f4f698749d150a6228f59dabb3547</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_choice_x_snc_pwerawer_performance_review_state</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>570fc7697f49d150c1696520d34f4fdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d70fc7692249d1508c792e50cf4749dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>submitted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Update Requested</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>970fc7691a49d150711f6ba3a188b7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>update_requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manager Review</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>170fc7690649d15010d664c5ddeb56dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>manager_review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Confirmed</label>
+            <language>en</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b0fc7693649d150ccb1bbb2dc2d96dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>confirmed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Confirmado</label>
+            <language>es</language>
+            <name>x_snc_pwerawer_performance_review</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:52:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df0fc7695849d1504cb09061b36309db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:52:59</sys_updated_on>
+            <value>confirmed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

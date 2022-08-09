@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">d30fc7690249d150ea1a8ef8bd5a2985</macroponent>
+        <name>PR_show alerts on actions</name>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "This employee will be asked to update the review record",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "This employee will be asked to accept once they review",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.emit('NOW_UXF_PAGE#CLEAR_NOTIFICATIONS');
+
+    const {
+        state,
+        data
+    } = api;
+
+    const {
+        status
+    } = event.payload;
+    
+    
+    //show alert on save draft
+
+    
+    if (state.pr_req_status == "manager_review") {
+        helpers.translate('This employee will be asked to accept once they review').then((value) => {
+
+            api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+                items: [{
+                    id: 'save_draft',
+                    status: "positive",
+                    icon: "check-outline",
+                    header: "Evaluation Completed ",
+                    content: {
+                        type: "html",
+                        value: "<span><br>"+ value + "</span>",
+                    },
+                    action: {
+                        type: "dismiss"
+                    },
+                    expanded : true
+                }]
+            });
+
+        });
+    }
+
+    if (state.pr_req_status == "update_requested") {
+        helpers.translate('This employee will be asked to update the review record').then((value) => {
+
+            api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+                items: [{
+                    id: 'save_draft',
+                    status: "positive",
+                    icon: "check-outline",
+                    header: "Update Requested ",
+                    content: {
+                        type: "html",
+                        value: "<span><br>"+ value + "</span>",
+                    },
+                    action: {
+                        type: "dismiss"
+                    },
+                    expanded : true
+                }]
+            });
+
+        });
+    }
+
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:48</sys_created_on>
+        <sys_id>d70fc769e849d150debc3171d079e678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PR_show alerts on actions</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_client_script_d70fc769e849d150debc3171d079e678</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:48</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

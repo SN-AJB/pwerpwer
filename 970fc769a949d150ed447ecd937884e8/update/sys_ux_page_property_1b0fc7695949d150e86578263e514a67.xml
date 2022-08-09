@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>,&#13;
+{&#13;
+   "id": "evaluation-settings",&#13;
+   "label": "Settings",&#13;
+   "icon": "gear-outline",&#13;
+   "viewportInfo": {},&#13;
+   "routeInfo": {&#13;
+     "route": "evaluation-settings"&#13;
+   },&#13;
+   "group": "bottom",&#13;
+   "badge":{},&#13;
+   "presence": {},&#13;
+   "availability": {&#13;
+		"roles" : ["admin"]&#13;
+   }&#13;
+ }</description>
+        <name>chrome_toolbar</name>
+        <page display_value="pwerawer Workspace">9b0fc7697849d15034ae306e37adb3e7</page>
+        <required_translations>[{"message":"List","comment":""},{"message":"Home","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1b0fc7695949d150e86578263e514a67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_page_property_1b0fc7695949d150e86578263e514a67</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:28</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_pwerawer.9b0fc7697849d15034ae306e37adb3e7.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+{&#13;
+   "id": "home",&#13;
+   "label": "Home",&#13;
+   "icon": "home-outline",&#13;
+   "viewportInfo": {},&#13;
+   "routeInfo": {&#13;
+     "route": "home"&#13;
+   },&#13;
+   "group": "top",&#13;
+   "badge": {},&#13;
+   "presence": {},&#13;
+   "availability": {&#13;
+   "roles": []&#13;
+   }&#13;
+ },&#13;
+{&#13;
+   "id": "list",&#13;
+   "label": "List",&#13;
+   "icon": "list-outline",&#13;
+   "viewportInfo": {},&#13;
+   "routeInfo": {&#13;
+     "route": "list"&#13;
+   },&#13;
+   "group": "top",&#13;
+   "badge":{},&#13;
+   "presence": {},&#13;
+   "availability": {&#13;
+		"roles" : []&#13;
+   }&#13;
+ }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b0fc7695949d150e86578263e514a67"/>
+</record_update>

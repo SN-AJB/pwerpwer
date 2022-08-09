@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Perf Review Sys Prop</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:20</sys_created_on>
+        <sys_id>970fc7697949d1507d440658caf95871</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Perf Review Sys Prop</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_970fc7697949d1507d440658caf95871</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:20</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

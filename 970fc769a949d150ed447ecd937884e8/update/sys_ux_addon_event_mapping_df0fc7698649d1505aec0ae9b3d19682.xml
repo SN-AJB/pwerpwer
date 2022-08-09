@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Click action event payload</description>
+        <name>PR Click Action Event Mapping</name>
+        <parent_macroponent display_value="Historical">9f0fc7695749d1508bc42d0965526582</parent_macroponent>
+        <source_da display_value="pr_click_action">1b0fc769f649d150ed1604e17c178ad4</source_da>
+        <source_element_id>data_set_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df0fc7698649d1505aec0ae9b3d19682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PR Click Action Event Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_df0fc7698649d1505aec0ae9b3d19682</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:49</sys_updated_on>
+        <target_event display_value="PR Click Action">db0fc769bb49d150d585291a5f937082</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "status": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "status"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

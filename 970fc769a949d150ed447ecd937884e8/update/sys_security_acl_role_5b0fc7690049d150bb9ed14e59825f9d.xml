@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:05</sys_created_on>
+        <sys_id>5b0fc7690049d150bb9ed14e59825f9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_security_acl display_value="130fc7698049d150a72b968821c916a2">9b0fc769f649d1501688449cac011da1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5b0fc7690049d150bb9ed14e59825f9d</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:05</sys_updated_on>
+        <sys_user_role display_value="x_snc_pwerawer.employee" name="x_snc_pwerawer.employee">130fc769d449d1506eedc5e1c303c8e8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

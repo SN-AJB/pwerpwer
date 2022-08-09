@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="status" label="status" language="en" table="var__m_sys_declarative_action_payload_field_c5e03924a1b16010f8777e9268089a38">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <help/>
+            <hint/>
+            <label>status</label>
+            <language>en</language>
+            <name>var__m_sys_declarative_action_payload_field_c5e03924a1b16010f8777e9268089a38</name>
+            <plural>status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:25</sys_created_on>
+            <sys_id>170fc7696c49d150e9da9a0632a7d0ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_declarative_action_payload_field_c5e03924a1b16010f8777e9268089a38_status_en</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

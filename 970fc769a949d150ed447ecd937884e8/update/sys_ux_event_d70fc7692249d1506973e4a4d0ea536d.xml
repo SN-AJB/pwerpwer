@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>COMPLETE_BUTTON_CLICK</event_name>
+        <interfaces/>
+        <label>complete button click</label>
+        <props>[{"name":"sysId","fieldType":"","label":"Record Id","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"status","fieldType":"","label":"Status","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[{"message":"Record Id","comment":""},{"message":"Status","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:52:43</sys_created_on>
+        <sys_id>d70fc7692249d1506973e4a4d0ea536d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>complete button click</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_event_d70fc7692249d1506973e4a4d0ea536d</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:52:43</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=d70fc7692249d1506973e4a4d0ea536d"/>
+</record_update>

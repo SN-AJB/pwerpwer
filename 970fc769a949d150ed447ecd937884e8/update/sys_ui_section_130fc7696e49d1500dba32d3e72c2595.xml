@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Looking forward" section_id="130fc7696e49d1500dba32d3e72c2595" sys_domain="global" table="x_snc_pwerawer_performance_review" version="3" view="self_review_ws_x_snc_pwerawer">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>upcoming_projects</element>
+            <position>0</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:05</sys_created_on>
+            <sys_id>170fc7695449d1504de47aaee600558d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Looking forward" display_value="Looking forward" name="x_snc_pwerawer_performance_review" sys_domain="global" view="170fc769ac49d150bb8ee1f3ac0a3796">130fc7696e49d1500dba32d3e72c2595</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>future_goals</element>
+            <position>1</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:05</sys_created_on>
+            <sys_id>170fc769bd49d150a8a6174ba3d54b8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Looking forward" display_value="Looking forward" name="x_snc_pwerawer_performance_review" sys_domain="global" view="170fc769ac49d150bb8ee1f3ac0a3796">130fc7696e49d1500dba32d3e72c2595</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Looking forward</caption>
+            <header>false</header>
+            <name>x_snc_pwerawer_performance_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>130fc7696e49d1500dba32d3e72c2595</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_pwerawer_performance_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_ui_section_130fc7696e49d1500dba32d3e72c2595</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Review WS (x_snc_pwerawer)" name="self_review_ws_x_snc_pwerawer">170fc769ac49d150bb8ee1f3ac0a3796</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_snc_pwerawer.pr_co_name</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+
+    var coName = gs.getProperty('x_snc_pwerawer.default_company_name');
+	template.print('<div style="font-family: arial, helvetica, sans serif; font-size: 12pt; color: #ffffff;"><strong>');
+	template.print(coName);
+	template.print('</div></strong>');
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:18</sys_created_on>
+        <sys_id>570fc7691e49d150942ad059b33da6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_pwerawer.pr_co_name</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_script_email_570fc7691e49d150942ad059b33da6a3</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:18</sys_updated_on>
+    </sys_script_email>
+</record_update>

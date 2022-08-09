@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Performance Review">db0fc7691449d150d9acfcb6705dd3e7</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Employee Evaluation">930fc7699c49d1501a4ee4c41a6db069</macroponent>
+        <macroponent_config>{
+  "parentSysId" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "sysId" ],
+      "category" : "props"
+    }
+  },
+  "parentTable" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "table" ],
+      "category" : "props"
+    }
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Employee Evaluation default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">d30fc7690249d150ea1a8ef8bd5a2985</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Employee Evaluation">930fc7690249d1506beb1cbebf2ae47b</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d30fc769f649d1500830897e01dbb165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Evaluation default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_screen_d30fc769f649d1500830897e01dbb165</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:40</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d30fc769f649d1500830897e01dbb165"/>
+</record_update>

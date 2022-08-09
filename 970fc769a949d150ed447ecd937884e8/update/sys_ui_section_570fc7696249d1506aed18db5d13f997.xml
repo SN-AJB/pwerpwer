@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notification settings" section_id="570fc7696249d1506aed18db5d13f997" sys_domain="global" table="x_snc_pwerawer_performance_review" version="3" view="settings_x_snc_pwerawer">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>530fc7690f49d150a00d3e4f9857bb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review_process_schedule</element>
+            <position>1</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>5f0fc7695549d150ac5c9c696653cd86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>9b0fc769f249d150c2ef21a7536cd586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>170fc7691e49d15030dede2dba5c3686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note</element>
+            <position>4</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>1b0fc7693c49d15096170c7411f75a86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>db0fc7696049d15016cba0c84711ce86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_prompt_self_review</element>
+            <position>6</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>570fc7696649d150751f67993ecab786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evaluation_due</element>
+            <position>7</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>9f0fc7699749d15045f9d73ab062fa85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notify_if_manager_isn_t_specified</element>
+            <position>8</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>db0fc769d749d150f11ff85e896e2e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>df0fc7697f49d1507f83c7e714dbc985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notify_reminder</element>
+            <position>10</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>d30fc769b949d1500fbff28de83b0486</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>11</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>130fc769a049d1507f34aaad484cf086</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title_empty_notify</element>
+            <position>12</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>9b0fc7699849d150944843aea1dabc85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_id>1f0fc7691549d150df3b07fdb11d1c85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notification settings" display_value="Notification settings" name="x_snc_pwerawer_performance_review" sys_domain="global" view="1f0fc769bc49d15055058fccd3d90997">570fc7696249d1506aed18db5d13f997</sys_ui_section>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notification settings</caption>
+            <header>false</header>
+            <name>x_snc_pwerawer_performance_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>andrew.barnes@snc</sys_created_by>
+            <sys_created_on>2022-08-01 15:53:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>570fc7696249d1506aed18db5d13f997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_pwerawer_performance_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+            <sys_update_name>sys_ui_section_570fc7696249d1506aed18db5d13f997</sys_update_name>
+            <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+            <sys_updated_on>2022-08-01 15:53:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Edit Settings (x_snc_pwerawer)" name="settings_x_snc_pwerawer">1f0fc769bc49d15055058fccd3d90997</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

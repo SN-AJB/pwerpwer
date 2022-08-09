@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Performance Review Employees">130fc769a249d150295cfc1533988682</applicability>
+        <order>0</order>
+        <screen display_value="Employee Self Evaluation default">9b0fc769c749d150da10e1571a9e617e</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:23</sys_created_on>
+        <sys_id>5b0fc769d349d1500172b3b09d7ef27e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_5b0fc769d349d1500172b3b09d7ef27e</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:23</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

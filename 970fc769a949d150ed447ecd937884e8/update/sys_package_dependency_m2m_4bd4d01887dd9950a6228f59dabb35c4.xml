@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">c602f2f687201110a6228f59dabb356e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-09 15:22:20</sys_created_on>
+        <sys_id>4bd4d01887dd9950a6228f59dabb35c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:22:20</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

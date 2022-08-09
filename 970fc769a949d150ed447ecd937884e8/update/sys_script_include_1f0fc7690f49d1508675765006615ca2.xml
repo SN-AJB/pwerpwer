@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_pwerawer.PRUtils_AJAX</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Support Server Side Calls from Settings Form</description>
+        <name>PRUtils_AJAX</name>
+        <script><![CDATA[var PRUtils_AJAX = Class.create();
+PRUtils_AJAX.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+   
+    getEndDate: function() {
+        var startDate = this.getParameter('sysparm_start_date');
+        var frequency = parseInt(this.getParameter('sysparm_frequency'));
+		
+        var gdt = new GlideDateTime(startDate);
+        gdt.addMonthsUTC(frequency);
+        gdt.addDaysUTC(-1);
+		
+        return gdt.getDate();
+    },
+    type: 'PRUtils_AJAX'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>andrew.barnes@snc</sys_created_by>
+        <sys_created_on>2022-08-01 15:53:03</sys_created_on>
+        <sys_id>1f0fc7690f49d1508675765006615ca2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRUtils_AJAX</sys_name>
+        <sys_package display_value="pwerawer" source="x_snc_pwerawer">970fc769a949d150ed447ecd937884e8</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="pwerawer">970fc769a949d150ed447ecd937884e8</sys_scope>
+        <sys_update_name>sys_script_include_1f0fc7690f49d1508675765006615ca2</sys_update_name>
+        <sys_updated_by>andrew.barnes@snc</sys_updated_by>
+        <sys_updated_on>2022-08-01 15:53:03</sys_updated_on>
+    </sys_script_include>
+</record_update>
